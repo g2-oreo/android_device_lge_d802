@@ -12,7 +12,7 @@ $(call inherit-product, vendor/du/config/common_full_phone.mk)
 $(call inherit-product, vendor/du/config/nfc_enhanced.mk)
 
 # Inherit device configuration
-$(call inherit-product, device/lge/d802/d802.mk)
+$(call inherit-product, device/lge/d802/device.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := d802
