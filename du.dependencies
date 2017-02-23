@@ -1,0 +1,52 @@
+[
+ {
+   "repository": "DirtyUnicorns/android_device_lge_g2-common",
+   "target_path": "device/lge/g2-common",
+   "branch":      "n7x-caf"
+ },
+ {
+   "repository": "DirtyUnicorns/android_kernel_lge_msm8974",
+   "target_path": "kernel/lge/msm8974",
+   "branch":      "n7x-caf"
+ },
+ {
+   "repository": "DirtyUnicorns/android_vendor_lge",
+   "target_path": "vendor/lge",
+   "branch":      "n7x-caf"
+ },
+ {
+   "repository": "DirtyUnicorns/android_external_sony_boringssl-compat",
+   "target_path": "external/sony/boringssl-compat",
+   "branch":      "n7x-caf"
+ },
+ {
+   "repository": "DirtyUnicorns/android_external_stlport",
+   "target_path": "external/stlport",
+   "branch":      "n7x-caf"
+ },
+ {
+   "repository": "DirtyUnicorns/android_external_connectivity",
+   "target_path": "external/connectivity",
+   "branch":      "n7x-caf"
+ },
+ {
+   "repository": "DirtyUnicorns/android_system_qcom",
+   "target_path": "system/qcom",
+   "branch":      "n7x-caf"
+ },
+ {
+   "repository": "DirtyUnicorns/android_external_bson",
+   "target_path": "external/bson",
+   "branch":      "n7x-caf"
+ },
+ {
+   "repository": "DirtyUnicorns/android_hardware_qcom_msm8x74",
+   "target_path": "hardware/qcom/msm8x74",
+   "branch":      "n7x-caf"
+ },
+ {
+   "repository": "DirtyUnicorns/android_vendor_qcom_binaries",
+   "target_path": "vendor/qcom/binaries",
+   "branch":      "n7x-caf"
+ }
+]
